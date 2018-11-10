@@ -1,0 +1,97 @@
+﻿
+
+body 
+{
+    margin: 0;
+    padding: 0;
+    background-color: floralwhite;
+}
+
+.SubmitButton
+{
+    background-color: royalblue;
+    color: #CCFFCC;
+    font-weight: bold;
+}
+
+.button
+{
+    background-color: lightgreen;
+    color: saddlebrown;
+    font-weight: bold;
+}
+
+.rightButton
+{
+    background-color: lightgreen;
+    color: saddlebrown;
+    font-weight: bold;
+    float:right;
+}
+
+
+.leftButton
+{
+    background-color: lightgreen;
+    color: saddlebrown;
+    font-weight: bold;
+    float:left;
+}
+
+
+.HideButton
+{
+    background-color: lightseagreen;
+    color: #CCFFCC;
+    font-weight: bold;
+    float:right;
+}
+
+.editButton
+{
+    background-color: coral;
+    color: #CCFFCC;
+    font-weight: bold;
+}
+
+.reviewButton
+{    
+    float: left; 
+    background-color: slateblue;
+    color: #CCFFCC;
+    font-weight: bold;
+}
+
+.deleteButton
+{
+    background-color: orangered;
+    color: #CCFFCC;
+    font-weight: bold;
+}
+
+
+.title
+{
+    color: royalblue;
+}
+
+.smallTitle
+{
+    color: cornflowerblue;
+}
+
+.receipt
+{
+    color: orangered;
+}
+.container 
+{
+    margin: auto;
+    width: 70%;
+}
+
+.img
+{
+    width: 60%;
+    height: 40%;
+}
